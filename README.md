@@ -10,7 +10,7 @@ This repository contains the training materials, tutorials, code, and assignment
 | Basic Objects |  <ul>  <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> </ul>
 | Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
 | If and Loops | <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li>  </ul>    
-| Functions and Classes | <ul>  <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li>  </ul> <ul>  <li> Private variables </li>   <li> Python Inheritance </li>   <li>Exceptions</li>   </ul> 
+| Functions and Classes | <ul>  <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li>  </ul> <ul> <li> Private variables </li>   <li> Python Inheritance </li>   <li>Exceptions</li>   </ul> 
 
 ## Intermediate Python Course
 |Topic|Subtopic
